@@ -1,0 +1,1 @@
+export const baseUrl = "https://cifar-10-backend.onrender.com";
